@@ -1,18 +1,12 @@
-Here’s the updated **README.md** with the **MIT License** added:  
-
----
-
-# Aayush Sinha's Portfolio  
-
 Welcome to my personal portfolio website! This site is a showcase of my skills, projects, and professional journey, designed to help potential employers, collaborators, and visitors learn more about me.  
 
-## 🌐 Live Website  
+ 🌐 Live Website  
 
 [Visit My Portfolio](https://aayushsinhaportfolio.netlify.app/)  
 
 ---  
 
-## 🛠 Features  
+ 🛠 Features  
 
 - **About Me**: A brief introduction to who I am and my background.  
 - **Skills**: A list of my technical and professional expertise.  
@@ -21,7 +15,7 @@ Welcome to my personal portfolio website! This site is a showcase of my skills, 
 
 ---  
 
-## 🚀 Technologies Used  
+ 🚀 Technologies Used  
 
 - **HTML5**: For the structure of the website.  
 - **CSS3**: For styling and responsive design.  
@@ -30,7 +24,7 @@ Welcome to my personal portfolio website! This site is a showcase of my skills, 
 
 ---  
 
-## 📂 Folder Structure  
+ 📂 Folder Structure  
 
 ```
 .
@@ -43,7 +37,7 @@ Welcome to my personal portfolio website! This site is a showcase of my skills, 
 
 ---  
 
-## 📦 How to Use Locally  
+📦 How to Use Locally  
 
 1. Clone this repository:  
    ```bash
@@ -60,7 +54,7 @@ Welcome to my personal portfolio website! This site is a showcase of my skills, 
 
 ---  
 
-## 🌟 Future Enhancements  
+ 🌟 Future Enhancements  
 
 - Add animations for a more dynamic user experience.  
 - Implement a blog CMS for easier post management.  
@@ -72,11 +66,6 @@ Welcome to my personal portfolio website! This site is a showcase of my skills, 
 
 ---  
 
-## 📝 License  
+ 📝 License  
 
-This project is licensed under the **MIT License**.  
-
-### MIT License  
-
-```
-
+This project is licensed under the **MIT License
